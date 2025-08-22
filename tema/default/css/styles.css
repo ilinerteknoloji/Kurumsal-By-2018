@@ -1,0 +1,317 @@
+header {
+	
+	background:#BBBBBB;
+	height:60px;
+	
+}
+
+header ul li {
+	
+	float:left;
+	font-size:20px;
+}
+
+header ul {
+	
+	position:absolute;
+	left:350px;
+	
+}
+
+header ul li a {
+	
+	padding:20px;
+	display:block;
+	color:#eee;
+}
+
+header ul li a:hover {
+	
+	text-decoration:none;
+	color:white;
+	background:#888888;
+}
+
+.logo img {
+	
+	float:left;
+	background:#ddd;
+	margin-left:20px;
+}
+.genel {
+	
+	width:1300px;
+	margin:auto;
+	margin-top:10px;
+}
+
+.urunler {
+	
+	
+	height:300px;
+	background:white;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+.urunler2 {
+	
+	
+	min-height:2000px;
+	background:white;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+
+.urun {
+	border:1px solid #ddd;
+	height:270px;
+	width:190px;
+	text-align:center;
+	padding:10px;
+	background:white;
+	float:left;
+	margin:14px 12px;
+}
+
+.urun h2 {
+	
+	padding:5px;
+	font-size:18px;
+	font-weight:bold;
+}
+
+
+.sertifika {
+	
+	height:400px;
+	
+	margin-bottom:20px;
+}
+
+.film {
+	
+	float:left;
+	width:500px;
+	
+	
+}
+
+.film h2 {
+	
+	font-weight:bold;
+	font-size:20px;
+	padding:10px;
+	border-bottom: 2px dotted white;
+	margin-bottom:10px;
+}
+
+.film img {
+	
+	float:left;
+	padding:10px;
+}
+
+.film p{ 
+
+  padding:10px;
+
+}
+
+.referanslar {
+	
+	
+	height:210px;
+	margin-bottom:20px;
+}
+
+.referanslar h2 {
+	
+
+	color:#BBBBBB;
+	padding:10px;
+	border-bottom:2px dotted white;
+	font-size:20px;
+	font-weight:bold;
+	margin-bottom:10px;
+}
+
+footer {
+	
+	
+	height:200px;
+	background:#BBBBBB;
+	
+}
+
+.footer {
+	
+	position:absolute;
+	left:200px;
+	
+	width:500px;
+}
+
+.footer ul li {
+	
+	float:left;
+	font-size:22px;
+	
+}
+
+.footer ul li a {
+	
+	display:block;
+	padding:15px;
+	color:white;
+	font-family:arial
+}
+
+.footer ul li a:hover {
+	
+	color:#888888;
+	text-decoration:none;
+}
+
+
+.footer p {
+	
+	color:white;
+	
+}
+
+.sosyal {
+	
+	float:right;
+	position:absolute;
+	right:150px;
+	width:149px;
+	height:100px;
+	
+	margin-top:30px;
+}
+
+.sosyal h2 { 
+
+   font-size:19px;
+   font-weight:bold;
+   padding:10px;
+   color:white;
+   border-bottom:2px solid #ddd;
+   margin-bottom:10px;
+}
+
+.icerikler {
+	
+	min-height:600px;
+	
+}
+
+.baslik {
+	
+	
+	width:1200px;
+	background: url(https://i.hizliresim.com/0zgDNL.jpg);
+   margin:auto;
+   text-align:center;
+   height:100px;
+   padding:10px;
+}
+
+.baslik h2 {
+	
+	font-size:23px;
+	font-weight:bold;
+	padding:5px;
+}
+
+.baslik span {
+	
+	font-size:18px;
+	
+}
+
+
+.aciklama {
+	
+	
+	background:white;
+	min-height:500px;
+	margin:auto;
+	width:1100px;
+	position:relative;
+	top:20px;
+	padding:20px;
+	margin-bottom:30px;
+	
+}
+
+
+.aciklama img {
+	
+	
+	float:left;
+	padding:10px;
+	
+}
+
+.aciklama p {
+	
+	padding:10px;
+	width:800px;
+	font-size:18px;
+	
+}
+
+.iletisim  {
+	
+	float:right;
+	width:280px;
+	height:300px;
+	
+}
+
+
+.devam {
+	
+	margin:10px;
+	border:1px solid #ddd;
+    padding:10px;
+	background:#BBBBBB;
+	border-radius:5px
+}
+
+.devam a {
+	
+	color:#ddd;
+	
+}
+
+.devam:hover{
+	background:#777777;
+	color:#E5E6E9;
+}
+.devam a:hover{
+	color:#E5E6E9;
+}
+
+a{
+	color:black;
+}
+
+.detaylar span{
+	margin-bottom:50px;
+}
+
+.firma{
+	width:1200;
+	height:30px;
+	background:#AAAAAA;
+	line-height:15px;
+}
+
+
+
+
+
