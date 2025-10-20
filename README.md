@@ -1,6 +1,6 @@
 2018 Senesinde PHP ile Basit bir şekilde geliştirilmiştir.
 
--Purge PHP ile oluşturuluştur.
+-Purge PHP ile oluşturuluştur.<br>
 -SQL dosyaları mevcut değildir. PHP içerisinden gerekli dosyalara bakılıp oluşturulabilir.<br>
 -Mail için sistem kurulu şekildedir.<br>
 -Hazır Admin Paneli mevcuttur Web sitesi burası üzerinden yönetilebilir.<br>
